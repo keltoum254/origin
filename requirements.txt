@@ -8,7 +8,7 @@ filelock==3.13.1
 fontawesomefree==6.5.1
 future==0.18.3
 platformdirs==4.1.0
-psycopg2==2.9.9
+psycopg2==2.9.6
 python-git==2018.2.1
 Send2Trash==1.8.2
 sqlparse==0.4.4
