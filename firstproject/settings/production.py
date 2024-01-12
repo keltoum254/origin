@@ -154,7 +154,7 @@ STORAGES = {
 'BACKEND': 'whitenoise.storage.CompressedStaticFilesStorage',
 },
 }
-
+WHITENOISE_MANIFEST_STRICT = False
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
