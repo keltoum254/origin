@@ -34,7 +34,7 @@ SECRET_KEY = 'django-insecure-j#dxc&6n(twt3#0$d7n4e*&2cs0@&u6x=_3art@^$$icstrpdc
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['.vercel.app']
+ALLOWED_HOSTS = ['*']
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'baddikeltoum511@gmail.com'
 EMAIL_HOST_PASSWORD = 'sali@1111'
